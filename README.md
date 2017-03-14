@@ -1,0 +1,2 @@
+# code
+a life code
